@@ -1,0 +1,16 @@
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\bin\Debug\26_WPF_ObjectDataProvider.exe.config
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\bin\Debug\26_WPF_ObjectDataProvider.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\bin\Debug\26_WPF_ObjectDataProvider.pdb
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\obj\Debug\26_WPF_ObjectDataProvider.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\obj\Debug\26_WPF_ObjectDataProvider_MarkupCompile.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\obj\Debug\26_WPF_ObjectDataProvider_MarkupCompile.lref
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\obj\Debug\26_WPF_ObjectDataProvider.g.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\obj\Debug\_26_WPF_ObjectDataProvider.Properties.Resources.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\obj\Debug\26_WPF_ObjectDataProvider.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\obj\Debug\26_WPF_ObjectDataProvider.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\obj\Debug\26_WPF_ObjectDataProvider.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\10\26\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\26_WPF_ObjectDataProvider\obj\Debug\26_WPF_ObjectDataProvider.pdb

@@ -1,0 +1,39 @@
+﻿<Window x:Class="_26_WPF_ObjectDataProvider.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_26_WPF_ObjectDataProvider"
+        mc:Ignorable="d"
+               Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <ObjectDataProvider x:Key="carRepository" ObjectType="{x:Type local:CarRepository}" MethodName="GetCars"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <ListBox x:Name="listBox" ItemsSource="{Binding Source={StaticResource carRepository}}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Path=Manufactured}"/>
+                        <TextBlock Text="  "/>
+                        <TextBlock Text="{Binding Path=Model}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox >
+        <StackPanel Grid.Column="1">
+            <Button x:Name="bt1" Content="По производителю" Click="bt1_Click"/>
+            <Button x:Name="bt2" Content="По модели" Click="bt2_Click"/>
+            <Button x:Name="bt3" Content="По дате продажи" Click="bt3_Click"/>
+            <Button x:Name="bt4" Content="По цене" Click="bt4_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
